@@ -8,6 +8,9 @@ torch = "*"
 torchvision = "*"
 torchaudio = "*"
 pyro-ppl = "*"
+jupyter = "*"
+matplotlib = "*"
+tqdm = "*"
 
 [dev-packages]
 
